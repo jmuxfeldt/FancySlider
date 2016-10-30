@@ -1,4 +1,4 @@
-# EZFancySlider
+# FancySlider and EZFancySlider
 A Quark for the SuperCollider porgramming Language
 
 All documentation is like for the EZSlider
