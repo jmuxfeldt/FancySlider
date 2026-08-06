@@ -1,7 +1,7 @@
 CLASS:: FancySlider
 redirect:: implClass
 summary:: An efficient Slider which substitutes a user view for a slider
-categories:: GUI>Views, GUI>EZ-GUI
+categories:: GUI>Views
 related:: Classes/Slider, Classes/EZFancySlider, Classes/EZSlider, Classes/SCViewHolder
 
 DESCRIPTION::
